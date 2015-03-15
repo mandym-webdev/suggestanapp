@@ -1,0 +1,1 @@
+templates["post_page"] = "new-post-page";

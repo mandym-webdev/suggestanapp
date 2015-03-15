@@ -1,0 +1,15 @@
+<template name="new-post-page">
+  <div class="single-post grid">
+    <div class="posts posts-list">
+      {{> UI.dynamic template=post_item}}
+    </div>
+    {{#if body}}
+      {{> UI.dynamic template=post_body}}
+    {{/if}}
+    {{#if url}}
+      {{> externalPostUrl}}
+    {{/if}}
+    {{> UI.dynamic template=comment_form}}
+    {{> UI.dynamic template=comment_list}}
+  </div>
+</template>
