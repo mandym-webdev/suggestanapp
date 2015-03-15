@@ -65,7 +65,7 @@ Package.onUse(function (api) {
     'lib/client/templates/custom_template.js',
     'lib/client/templates/customPostTitle.html',
     'lib/client/templates/externalPostsUrl.html',
-    'lib/client/templates/new-post-page.html',
+    'lib/client/templates/new-post-body.html',
     'lib/client/kepler.js',
     'lib/client/stylesheets/custom.scss'
   ], ['client']);

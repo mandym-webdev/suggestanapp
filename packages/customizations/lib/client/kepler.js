@@ -1,1 +1,1 @@
-templates["post_page"] = "new-post-page";
+templates["post_body"] = "new-post-body";
