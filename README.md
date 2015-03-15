@@ -1,30 +1,18 @@
-[![Build Status](https://travis-ci.org/TelescopeJS/Telescope.svg)](https://travis-ci.org/TelescopeJS/Telescope)
-[![Code Climate](https://codeclimate.com/github/TelescopeJS/Telescope/badges/gpa.svg)](https://codeclimate.com/github/TelescopeJS/Telescope)
+### Suggest an App
 
-Telescope is an open-source, real-time social news site built with [Meteor](http://meteor.com)
+[Suggest an App](http://suggestanapp.co)
 
-**Note:** Telescope is beta software. Most of it should work but it's still a little unpolished and you'll probably find some bugs. Use at your own risk :)
+Suggest an app is project #1 in my [12 Apps in 12 Months](http://mandym.com/2015/03/announcing-the-12-apps-in-12-months-challenge/) Challenge.
 
-Note that Telescope is distributed under the [MIT License](http://opensource.org/licenses/MIT)
+I chose to build it for a couple reasons:
 
-### We Need Your Help!
+- I wanted to get some exposure to Meteor without having to start from scratch
+- I intend to ask my friends to suggest ideas for the challenge so having a place for them to suggest them seemed like a good idea
 
-A lot of work has already gone into Telescope, but it needs that final push to reach its full potential.
+### Stack
 
-So if you'd like to be part of the project, please check out the [roadmap](https://trello.com/b/oLMMqjVL/telescope-roadmap) and [issues](https://github.com/TelescopeJS/Telescope/issues) to see if there's anything you can help with.
+Suggest an App is built using [Telescope](http://www.telescopeapp.org/) with [Meteor](http://meteor.com) and is mostly out of the box functionality.  I did do some styling changes and some layout/functionalty changes but it was mostly turnkey.
 
-### Learn More
+### Roadmap
 
-- [Telescope Homepage](http://telesc.pe)
-- [Telescope Demo](http://demo2.telescopeapp.org)
-- [Telescope Documentation](http://telesc.pe/docs)
-- [Telescope Roadmap](https://trello.com/b/oLMMqjVL/telescope-roadmap)
-- [Telescope Meta](http://meta.telesc.pe/) – Discussions about Telescope
-
-### Developing on Nitrous.IO
-
-Start hacking on this app on
-[Nitrous.IO](https://www.nitrous.io/?utm_source=github.com&utm_campaign=Telescope&utm_medium=hackonnitrous)
-in seconds:
-
-[![Hack TelescopeJS/Telescope on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=TelescopeJS%2FTelescope&file_to_open=README.nitrous.md)
+The site as it stands is an MVP.  You can check my [Trello](https://trello.com/b/Qk4xdOlG/challenge-month-1) board for planned additional functionality.
